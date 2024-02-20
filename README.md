@@ -8,7 +8,7 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-🎓 DESARROLLADOR DE SOFTWARE
+🎓 DESARROLLADOR BACK-END
 
 💻 DESARROLLADOR DE SOFTWARE en Grupo Robles y Yasikov
 
