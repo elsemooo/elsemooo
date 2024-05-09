@@ -10,8 +10,6 @@
 <p align="left">
 🎓 DESARROLLADOR BACK-END
 
-💻 DESARROLLADOR DE SOFTWARE en Grupo Robles y Yasikov
-
 📝 roles en el ámbito: desarrollador full stack, programador freelance y en un futuro quién sabe ☺️
 
 📫 Contacto: **khalidsamanamud@gmail.com**
